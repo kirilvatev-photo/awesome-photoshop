@@ -4,6 +4,9 @@
 
 ## Contents
 
+### Understanding color
+TODO talk about CMYK
+
 ### Color adjustments
 
 #### Selective Color adjustment layers
