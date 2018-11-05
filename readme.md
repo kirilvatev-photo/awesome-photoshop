@@ -5,7 +5,7 @@
 ## Contents
 
 ### Understanding color
-TODO talk about CMYK
+TODO talk about RGB and CMYK
 
 ### Color adjustments
 
