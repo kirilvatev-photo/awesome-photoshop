@@ -4,7 +4,7 @@
 
 ## Contents
 
-### Understanding color
+### Understanding digital color
 TODO talk about RGB and CMYK
 
 ### Color adjustments
