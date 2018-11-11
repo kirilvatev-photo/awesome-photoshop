@@ -2,6 +2,8 @@
 
 > A curated list of Photoshop tips, techniques, and tutorials for photographers and beyond.
 
+Some parts of this collection will be over-simplified. I will try to explain as much as you need to follow a particular technique, but will often leave out a deep and thorough understanding. When doing so, I will mark the section with the skeptical Colbert emoji `🤨`, leaving it as an exercise for the reader to research more on a topic they find interesting. If you feel like I have overly oversimplified, feel free to [open a new discussion](https://github.com/kirilvatev-photo/awesome-photoshop/issues/new) so we can get to the bottom of it.
+
 ## Contents
 
 ### Understanding digital color
