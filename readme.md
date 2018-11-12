@@ -67,6 +67,14 @@ TODO
 ### Selecting subjects
 TODO
 
+### Scaling, cropping, stitching
+
+#### Shooting a wide scene with a medium lens
+TODO stitching a square panorama
+
+#### Shooting far subjects with a wide lens
+TODO superresolution
+
 ## License
 
 TODO
